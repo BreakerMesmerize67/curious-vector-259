@@ -85,4 +85,4 @@ Use the green button above; if the browser blocks it, confirm the keep action.
 
 ---
 
-*curious-vector-259 · Updated 2026-10-09 · Shared under the MIT License*
+*curious-vector-259 · Updated 2026-10-10 · Shared under the MIT License*
